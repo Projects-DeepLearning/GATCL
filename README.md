@@ -1,3 +1,6 @@
+The first dataset is the LIBD human dorsolateral prefrontal cortex (DLPFC) data (http://research.libd.org/spatialLIBD/).
+The second dataset is the human breast cancer data (https://www.10xgenomics.com/datasets/human-breast-cancer-block-a-section-1-1-standard-1-0-0).
+
 Requirements
 
 You'll need to install the following python packages in order to run the codes.
